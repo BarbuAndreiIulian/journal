@@ -1,0 +1,93 @@
+.card--container {
+  box-sizing: border-box;
+  display: flex;
+  padding-top: 45px;
+  padding-left: 40px;
+}
+
+.About {
+  padding-left: 1rem;
+}
+
+.location {
+  padding-top: 1rem;
+  display: flex;
+  justify-content: flex-start;
+  height: 1rem;
+}
+
+.point {
+  width: 7px;
+  height: 9.55px;
+}
+
+.country {
+  width: 40px;
+  height: 10px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10.24px;
+  line-height: 12px;
+  letter-spacing: 0.17em;
+  color: #2b283a;
+}
+
+.maps {
+  width: 106px;
+  height: 13px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10.24px;
+  line-height: 12px;
+  text-decoration-line: underline;
+  color: #918e9b;
+}
+
+.title {
+  width: 326px;
+  height: 40px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 30px;
+  color: #2b283a;
+}
+
+.date {
+  width: 319px;
+  height: 11px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10.24px;
+  line-height: 12px;
+  color: #2b283a;
+}
+
+.description {
+  width: 326px;
+  height: 45px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10.24px;
+  line-height: 150%;
+  color: #2b283a;
+}
+
+.location img {
+  padding-right: 0.2rem;
+}
+
+.location p {
+  width: fit-content;
+  padding-right: 0.25rem;
+}
+
+.abs {
+  position: absolute;
+  padding: 0.2rem 0.2rem;
+}
